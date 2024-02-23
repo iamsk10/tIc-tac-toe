@@ -44,3 +44,11 @@ main{
     font-size: 8vmin;
     
 }
+
+#reset-btn{
+    font-size: 7vmin;
+    background-color: #292828;
+    color: rgb(201, 209, 216);
+    border-radius: 1rem;
+    border-style: none;
+}

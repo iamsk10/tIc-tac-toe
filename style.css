@@ -59,5 +59,31 @@ main{
 }
 #reset-btn:hover{
     background-color: #e60202;
+}
 
+#new-btn{
+    padding: 1rem;
+    font-size: 1rem;
+    background-color: #292828;
+    color: rgb(255, 255, 255);
+    border-radius: 1rem;
+    border-style: none;
+
+}
+#msg {
+    font-size: 5vmin;
+    color: rgb(250, 255, 253);
+   
+}
+.msg-container{
+    display: flex;
+    height: 30vmin;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+
+}
+.hide{
+    display: none;
 }

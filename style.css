@@ -48,7 +48,8 @@ main{
 #reset-btn{
     font-size: 7vmin;
     background-color: #292828;
-    color: rgb(201, 209, 216);
+    color: rgb(147, 176, 201);
     border-radius: 1rem;
     border-style: none;
+    width: 25vh;
 }
